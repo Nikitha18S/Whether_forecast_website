@@ -20,4 +20,3 @@ Interactive UI: User-friendly interface with clear and concise weather informati
 Conclusion
 This Weather Forecast Website is a practical and user-friendly tool for getting up-to-date weather information. It serves as an excellent starting point for anyone looking to build their own weather app, and it's a great project for learning how to work with APIs and create dynamic web applications.
 
-Feel free to fork this repository and enhance the app with more features, such as a 7-day forecast, location-based weather updates, or integrating other APIs for more detailed weather insights.
